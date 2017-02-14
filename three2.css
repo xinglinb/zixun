@@ -1,0 +1,212 @@
+*{
+	margin: 0;
+	padding: 0
+}
+
+
+
+.z1{
+	float: left;
+}
+
+.z2{
+	font-size: 25px;
+	color: #f8fbff;
+	margin-left: 20px;
+	font-family: 微软雅黑;
+}
+
+
+
+.z4{
+	font-size: 20px;
+	color: #f8fbff;
+	margin-left: 20px;
+	cursor:pointer;
+	height: 35px;
+	text-align:center
+
+
+}
+
+.x{
+	float: left;
+}
+
+@media screen and (max-width:1280px) {
+                .pp{
+                	width: 1280px
+                }
+            }
+
+@media screen and (min-width:1280px) {
+                .pp{
+                	width: 100%
+                }
+            }
+
+
+
+#xx{
+	height: 130px;
+	background-color: #38a9a7;
+	position: fixed
+}
+
+
+#xx #top{
+	width: 1280px;
+	height: 130px;
+	margin: 0 auto;
+}
+
+#yy{
+	padding-bottom: 30px;
+	background-color: #252e2d;
+	margin-top: 130px
+}
+
+#yy #zhong{
+	width: 1280px;
+	
+	margin: 0 auto;
+	background-color: rgba(0,0,0,0.25)
+	
+}
+
+#yy #zhong #rgt{
+	width: 250px;
+	height: 810px;
+	background-color: #151a1a;
+	color: #fff;
+	position: fixed;
+	top: 130px
+
+}
+
+.r1{
+	width: 250px;
+	height: 50px;
+	margin-top: 15px;
+	background-color: rgba(0,0,0,0.5);
+	cursor:pointer;
+}
+
+.t1{
+	width: 30px;
+	height: 26px;
+	margin-left: 50px;
+	margin-top: 10px
+}
+
+.z3{
+	font-size: 20px;
+	color: #f8fbff;
+	margin-left: 25px;
+	margin-top: 15px
+
+}
+
+#yy #zhong #rgt ul{
+
+}
+
+.la{
+	width: 250px;
+	height: 40px;
+	cursor:pointer;
+	margin-top: 25px;
+	
+
+}
+
+.la:hover{
+	background-color: rgba(0,0,0,0.5);
+}
+
+#yy #zhong #rgt ul li{
+	font-size: 20px;
+	color: #f8fbff;
+	margin-left: 80px;
+	line-height: 40px;
+	padding-left: 20px;	
+	
+
+}
+
+#lft{
+	width: 1000px;
+
+	margin-left: 280px;
+
+}
+
+#lft .my{
+	background-color: rgba(0,0,0,0.5);
+	float: left;
+	width: 800px;
+	margin-left: 40px;
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	color: #f8fbff;
+	line-height: 30px;
+	
+
+}
+
+a{
+	text-decoration:none;
+	color: #f8fbff
+}
+
+.zx:hover{
+ 	color: #f86706
+}
+
+.zx{
+	color: #fff;
+	font-size: 30px;
+	line-height: 50px;
+	cursor:pointer;
+}
+
+.zy{
+	color: #f8fbff;
+	cursor:pointer;
+	
+}
+
+.zy:hover{
+ 	color: #38a9a7
+}
+
+#lft img{
+	margin-top: 15px;
+	cursor:pointer;
+}
+
+#zz{
+	height: 100px;
+	background-color: #161a1b;
+
+}
+
+#dow{
+	width: 1280px;
+	height: 90px;
+	margin: 0 auto;
+	margin-top: 10px
+}
+
+.z9{
+	color: #fff;
+	width: 1280px;
+	text-align:center;
+	margin-top: 10px;
+
+
+}
+
